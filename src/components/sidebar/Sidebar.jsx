@@ -21,35 +21,35 @@ export default function Sidebar() {
           </li>
           <li className="sidebarListItem">
             <ChatBubbleIcon className="sidebarIcon" />
-            <span className="sidebarListItemText">ChatBubbleIcon</span>
+            <span className="sidebarListItemText">Chats</span>
           </li>
           <li className="sidebarListItem">
             <VideocamIcon className="sidebarIcon" />
-            <span className="sidebarListItemText">VideocamIcon</span>
+            <span className="sidebarListItemText">Videos</span>
           </li>
           <li className="sidebarListItem">
             <GroupIcon className="sidebarIcon" />
-            <span className="sidebarListItemText">GroupIcon</span>
+            <span className="sidebarListItemText">Groups</span>
           </li>
           <li className="sidebarListItem">
             <BookmarkIcon className="sidebarIcon" />
-            <span className="sidebarListItemText">BookmarkIcon</span>
+            <span className="sidebarListItemText">Bookmarks</span>
           </li>
           <li className="sidebarListItem">
             <QuestionMarkIcon className="sidebarIcon" />
-            <span className="sidebarListItemText">QuestionMarkIcon</span>
+            <span className="sidebarListItemText">Questions</span>
           </li>
           <li className="sidebarListItem">
             <WorkIcon className="sidebarIcon" />
-            <span className="sidebarListItemText">WorkIcon</span>
+            <span className="sidebarListItemText">Jobs</span>
           </li>
           <li className="sidebarListItem">
             <EventIcon className="sidebarIcon" />
-            <span className="sidebarListItemText">EventIcon</span>
+            <span className="sidebarListItemText">Events</span>
           </li>
           <li className="sidebarListItem">
             <SchoolIcon className="sidebarIcon" />
-            <span className="sidebarListItemText">SchoolIcon</span>
+            <span className="sidebarListItemText">Courses</span>
           </li>
         </ul>
         <button className="sidebarButton">Show More</button>
